@@ -14,7 +14,7 @@ I'm learning this languange:
 ---
 
 ### 📊 My GithHub Stat
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=dracula&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=NisrinaR21&show_icons=true&theme=dracula&hide_border=true)
 
 ---
 
